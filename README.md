@@ -135,20 +135,20 @@ SELECT * FROM Top_Companies WHERE Rankings <= 5;
 ### **🔥 Most Impacted Sectors**
 | **Rank** | **Industry** | **Impact Level** |
 |----------|-------------|------------------|
-| 1 | Technology | 🔴 Severe |
-| 2 | Crypto/Blockchain | 🔴 Severe |
-| 3 | Consumer Services | 🟠 High |
-| 4 | Healthcare | 🟡 Moderate |
+| 1 | Consumer Services | 🔴 Severe |
+| 2 | Retail Services | 🔴 Severe |
+| 3 | Transportation | 🟠 High |
+| 4 | Finance | 🟡 Moderate |
 
-### **🌍 Geographic Impact**
+### **🌍 Country-Wise Impact**
 - **United States:** Highest absolute numbers
-- **Europe:** Significant but lower impact
-- **Asia-Pacific:** Varied by country and industry
+- **India:** Significantly larger
+- **Netherlands:** High numbers but gradually decreasing
 
 ### **📅 Temporal Patterns**
-- **Peak layoff periods:** Identified specific months with highest activity
-- **Seasonal trends:** Discovered patterns in corporate restructuring timing
-- **Year-over-year growth:** Tracked escalation in layoff frequency
+- **Peak layoff periods:** Identified specific months with highest activity - 2022 (Worst Year)
+- **Seasonal trends:** Discovered patterns in corporate restructuring timing 
+- **Year-over-year growth:** Tracked escalation in layoff frequency - 2020 to 2023 (Numbers increasing drastically)
 
 ---
 
